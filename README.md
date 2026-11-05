@@ -1,6 +1,6 @@
 # 💰 AI Salary Negotiator
 
-**Project 4 of 60 AI agents.** Analyse a job offer, build a negotiation plan, write the message and practise the conversation. Runs locally; **everything except optional AI polish works offline**.
+** AI agents.** Analyse a job offer, build a negotiation plan, write the message and practise the conversation. Runs locally; **everything except optional AI polish works offline**.
 
 ## Features
 - **Offer & market:** total compensation (base, expected variable, haircut ESOP, benefits, joining bonus), fixed-pay share, and an approximate market percentile from the range you enter
